@@ -6,4 +6,3 @@ diff is woring and caching different.
 creating a new branch is quick & simple.
 add merge by --no-ff commands
 creating a new branch from prod
-I fix a bug
