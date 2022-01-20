@@ -6,4 +6,8 @@ diff is woring and caching different.
 creating a new branch is quick & simple.
 add merge by --no-ff commands
 creating a new branch from prod
+我是A用户，我也要提交这句话
+
+我是B用户，我要提交这句话
+
 
