@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git trackes changes of file.
 diff is woring and caching different.
 creating a new branch is quick & simple.
+add merge by --no -ff
