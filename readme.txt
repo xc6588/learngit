@@ -11,4 +11,5 @@ creating a new branch from prod
 我是B用户，我要提交这句话
 我是B用户在用dev分支提交自己
 变基操作制造中2
+测试变基操作，other用户
 
